@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'SQLite3框架FMDB的使用' do
+  pod 'FMDB'
+end
+
